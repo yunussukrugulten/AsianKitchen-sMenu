@@ -15,7 +15,7 @@ Bu repo [Patika.dev](https://www.patika.dev) *Asian Kitchen's Menu* ödevi için
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/yunussukrugulten/AsianKitchensMenu.git
+git clone https://github.com/yunussukrugulten/AsianKitchen-sMenu.git
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd AsianKitchensMenu
+cd AsianKitchen-sMenu
 code .
 ```
 
