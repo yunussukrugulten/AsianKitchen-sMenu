@@ -12,7 +12,7 @@ Bu repo [Patika.dev](https://www.patika.dev) *Asian Kitchen's Menu* ödevi için
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/yunussukrugulten/AsianKitchen-sMenu.git
